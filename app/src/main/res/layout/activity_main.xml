@@ -54,7 +54,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
-        android:background="@drawable/round_btn"
+        android:background="@drawable/background_intput_text"
         android:text="SIGN IN"
         android:textSize="15dp"
         android:textStyle="bold"
